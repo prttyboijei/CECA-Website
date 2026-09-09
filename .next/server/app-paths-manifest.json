@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/about/page": "app/about/page.js",
+  "/advocacies/page": "app/advocacies/page.js",
+  "/ceca-guidelines/page": "app/ceca-guidelines/page.js",
+  "/repository/page": "app/repository/page.js"
+}
